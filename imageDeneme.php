@@ -8,7 +8,7 @@
 
 $databaseservername = "localhost";
 $databaseusername   = "root";
-$databasepassword   = "123";
+$databasepassword   = "sorudatabase";
 $databasename       = "androidApp";
 
 $conn = new mysqli($databaseservername, $databaseusername, $databasepassword, $databasename);
